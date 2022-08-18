@@ -1,5 +1,5 @@
 # my neetcode150 progress (JS / Python)
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/2)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/3)
 ## Arrays and Hashing
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ✓   
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)  ✓   
@@ -12,7 +12,7 @@
 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  
 
 ## Two Pointers
-[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  
+[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  ✓  
 [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  
 [3Sum](https://leetcode.com/problems/3sum/)  
 [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) 
