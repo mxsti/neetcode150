@@ -4,7 +4,7 @@
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ✓   
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)  ✓   
 [Two Sum](https://leetcode.com/problems/two-sum/) ✓   
-[Group Anagrams](https://leetcode.com/problems/group-anagrams/)  
+[Group Anagrams](https://leetcode.com/problems/group-anagrams/) ✓  
 [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  
 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  
 [Valid Sodoku](https://leetcode.com/problems/valid-sudoku/)  
