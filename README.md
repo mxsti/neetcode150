@@ -27,7 +27,7 @@
 [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
 ## Stack
-[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  
+[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ✔️    
 [Min Stack](https://leetcode.com/problems/min-stack/)  
 [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  
 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  
