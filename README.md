@@ -1,5 +1,5 @@
 # my neetcode150 progress (JS / Python)
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/6)
 ## Arrays and Hashing
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ✔️    
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)  ✔️   
@@ -28,7 +28,7 @@
 
 ## Stack
 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ✔️    
-[Min Stack](https://leetcode.com/problems/min-stack/)  
+[Min Stack](https://leetcode.com/problems/min-stack/) ✔️    
 [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  
 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  
 [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)  
