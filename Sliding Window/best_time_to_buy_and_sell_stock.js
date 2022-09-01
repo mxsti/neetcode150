@@ -3,20 +3,27 @@
  * @return {number}
 //  */
  var maxProfit = function(prices) {
-    let min = Infinity;
-    let max = -Infinity;
-    prices.forEach(price => {
-        if (price > max){
-            max = price;
-        }
-        if (price < min) {
-            min = price;
-        }
-    });
+    let i = 0;
+    let j = i + 1;
+    let maxProfit = 0;
 
-    console.log(max, min)
+    while (j < prices.length){
+        const left = prices[i];
+        const right = prices[j];
+        const profit = right - left;
+
+        if (profit < 0) {
+            i = j;
+            j++;
+        } else {
+            maxProfit = profit > maxProfit ? profit : maxProfit;
+            j++;
+        }
+    }; 
+    return maxProfit;
 };
 
 
-prices = [7,1,5,3,6,4]
-maxProfit(prices)
+
+prices = [2,2]
+console.log(maxProfit(prices));

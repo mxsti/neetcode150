@@ -19,7 +19,7 @@
 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)  
 
 ## Sliding Window
-[Best Time to Buy & Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
+[Best Time to Buy & Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ✔️  
 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
 [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  
 [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
