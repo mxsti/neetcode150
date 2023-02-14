@@ -1,5 +1,5 @@
 # my neetcode150 progress (JS / Python)
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/6)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/7)
 ## Arrays and Hashing
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ✔️    
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)  ✔️   
@@ -45,7 +45,7 @@
 [Find Median of Two Sorted Array](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 ## Linked List
-[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  
+[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) ✔️  
 [Merge Two Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  
 [Reorder List](https://leetcode.com/problems/reorder-list/)  
 [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  
