@@ -2,28 +2,30 @@
  * @param {string} s
  * @return {number}
  */
- var lengthOfLongestSubstring = function(s) {
+var lengthOfLongestSubstring = function (s) {
     let i = 0;
-    let j = i + 1;
-    let substring = [];
-    let check_doubles = [];
-    check_doubles.push(s[i]);
+    let j = 1;
+    let seen = new Map();
+    let longest = 0;
 
-    while (j < s.length){
-        if (s[i] === s[j] || check_doubles.includes(s[j])) {
-            console.log(s[i], s[j])
-            i = j;
+    while (j <= s.length) {
+
+        seen.set(s[i]); // s -> d
+
+        if (!seen.has(s[j])) {
+            let length = j - i;
+            longest = length > longest ? length : longest;
+            seen.set(s[j]); // s -> d,v
             j++;
-            check_doubles = [];
         } else {
-            check_doubles.push(s[j]);
-            if(check_doubles.length > substring.length) {
-                substring = check_doubles;
-            }
-            j++;
+            let length = j - i;
+            longest = length > longest ? length : longest;
+            i++;
+            j = i + 1;
+            seen.clear();
         }
     }
-    return substring.length === 0 ? 1 : substring.length;
- }
+    return longest;
+}
 
-lengthOfLongestSubstring("pwwkew");
+console.log(lengthOfLongestSubstring('pwwkew'))
