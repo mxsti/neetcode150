@@ -1,5 +1,5 @@
 # my neetcode150 progress (JS / Python)
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/7)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/8)
 ## Arrays and Hashing
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ✔️    
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)  ✔️   
@@ -20,7 +20,7 @@
 
 ## Sliding Window
 [Best Time to Buy & Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ✔️  
-[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
+[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ✔️  
 [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  
 [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  
