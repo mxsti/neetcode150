@@ -58,7 +58,7 @@
 [Reverse Nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  
 
 ## Trees
-[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  
+[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ✔️  
 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    
 [Diameter of a Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  
 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  
