@@ -1,5 +1,5 @@
 # my neetcode150 progress (JS / Python)
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/8)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/9)
 ## Arrays and Hashing
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ✔️    
 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)  ✔️   
@@ -59,7 +59,7 @@
 
 ## Trees
 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ✔️  
-[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    
+[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ✔️   
 [Diameter of a Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  
 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  
 [Same Tree](https://leetcode.com/problems/same-tree/)  
